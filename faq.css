@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(164, 111, 161, 0.987);
+   
+}
+.container{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    
+}
+h1{
+    color: black;
+    font-family: Work Sans;
+    font-weight: 700;
+
+}
